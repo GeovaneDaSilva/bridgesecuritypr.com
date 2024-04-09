@@ -1,0 +1,1 @@
+ /Users/geovanedasilva/Desktop/Source\ File/timesecurity/.dart_tool/flutter_build/2f8ae2de7bb724892c845f82efe36776/native_assets.yaml: 

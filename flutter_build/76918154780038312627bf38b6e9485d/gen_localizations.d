@@ -1,0 +1,1 @@
+ /Users/geovanedasilva/Desktop/Source\ File/timesecurity/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/geovanedasilva/Desktop/Source\ File/timesecurity/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/geovanedasilva/Desktop/Source\ File/timesecurity/l10n.yaml /Users/geovanedasilva/Desktop/Source\ File/timesecurity/lib/localization/app_en.arb
